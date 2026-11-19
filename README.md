@@ -71,7 +71,7 @@ I enjoy transforming business requirements into reliable software products, deve
 
 - 🌐 Portfolio: https://saniulislam.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sani10/
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💻 GitHub: https://github.com/saniulislam10
 
 I'm always interested in collaborating on meaningful software projects and building solutions that solve real-world problems.
 
